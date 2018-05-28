@@ -1,0 +1,14 @@
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe.config
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.exe
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\Ray_tracing.pdb
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.dll
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.pdb
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.xml
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Form1.resources
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.Properties.Resources.resources
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csproj.GenerateResource.Cache
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.exe
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.pdb
+C:\Users\ann\documents\visual studio 2012\Projects\Ray_tracing\Ray_tracing\obj\Debug\Ray_tracing.csprojResolveAssemblyReference.cache
